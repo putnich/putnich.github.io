@@ -72,7 +72,7 @@
 
 .post-languages {
   font-size: 13px;
-  font-family: Helvetica, sans-serif;
+  font-family: $base-font-family;
   margin-top: 30px;
   margin-bottom: 20px;
 
@@ -93,7 +93,7 @@ div.footnotes {
   text-align: center;
   padding: 1em;
   margin-bottom: 2em;
-  font-family: Helvetica, sans-serif;
+  font-family: $base-font-family;
 
   border-radius: 5px;
 

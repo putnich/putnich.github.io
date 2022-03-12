@@ -5,10 +5,8 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+<h1 style='text-align: center'> Hello! </h1>
+<h3 style='text-align: center'>
+  My name is Marko Putnikovic. I am a Ph.D. student in Artificial Intelligence at the University of Belgrade.
+</h3 >
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
