@@ -11,7 +11,7 @@ header:
   pages:
     - name: Home
       slug: /
-    #- name: Research
+    - name: Work
     #- name: Blog
 
 footer:

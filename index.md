@@ -5,8 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-<h1 style='text-align: center'> Hello! </h1>
-<h3 style='text-align: center'>
-  My name is Marko Putnikovic. I am a Ph.D. student in Artificial Intelligence at the University of Belgrade.
+<h1> Hello! </h1>
+<h3>
+  My name is Marko Putnikovic. I am a Ph.D. student in Artificial Intelligence at the University of Belgrade. My research areas include natural language processing, automatic short answer grading, and multi-agent systems.  
 </h3 >
-

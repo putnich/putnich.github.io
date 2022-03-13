@@ -1,16 +1,14 @@
 .profile-pic {
-  float: center;
-  width: 150px;
+  float: right;
+  width: 202px;
   border: #ccc 1px solid;
-  margin-left: 40%;
-  margin-bottom: 20px;
+  margin-left: 20px;
   border-radius: 100%;
 
   @include media-query($on-mobile) {
-    float: center;
+    float: none;
     margin-bottom: 20px;
-    margin-left: 35%;
-    display:flex;
+    margin-left: 100px;
   }
 }
 
