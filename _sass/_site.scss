@@ -6,9 +6,9 @@
   border-radius: 100%;
 
   @include media-query($on-mobile) {
-    float: none;
-    margin-bottom: 20px;
-    margin-left: 100px;
+    float: right;
+    margin-top: 10%;
+    margin-bottom: 5%;
   }
 }
 
