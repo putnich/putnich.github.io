@@ -1,10 +1,12 @@
 ---
-layout: work
+layout: research
 title: Work and Research
-slug: /work
+slug: /research
 items:
   - type: Publications
     items:
+    - title: Putnikovic M., Jovanovic J. (2022). Embeddings for Automatic Short-Answer Grading - a Scoping Review.
+      description: Manuscript submitted for publication.
     - title: Putnikovic M., Jovanovic J. (2022, June). Word Embeddings for Automatic Short Answer Grading.
       description: In J. Liebowitz (Ed.). Digital Transformation for the University of Future (pp. 197-213). World Scientific. <a href='https://doi.org/10.1142/9789811254154_0011'>https://doi.org/10.1142/9789811254154_0011</a>
   - type: Projects
